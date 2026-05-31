@@ -1,0 +1,6 @@
+{
+  "name": "AI Music Generator",
+  "description": "An interactive workspace to preprocess MIDI files, build and train a recurrent neural network (RNN) model in-browser, visualize weight updates, and synthesize new classical or jazz melodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
